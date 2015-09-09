@@ -248,3 +248,13 @@
 2015/09/09 18:15:07 [Exception] : CommunicationException
 2015/09/09 18:15:11 [Method] : StopLiveView
 2015/09/09 18:15:11 [Method] : Disconnect
+2015/09/09 18:29:13 [Method] : StopLiveView
+2015/09/09 18:29:13 [Method] : Disconnect
+2015/09/09 18:31:46 [Method] : Connect
+2015/09/09 18:31:47 [Exception] : CommunicationException
+2015/09/09 18:31:52 [Method] : Connect
+2015/09/09 18:31:53 [Exception] : CommunicationException
+2015/09/09 18:32:02 [Method] : Connect
+2015/09/09 18:32:03 [Exception] : CommunicationException
+2015/09/09 18:32:04 [Method] : Connect
+2015/09/09 18:32:05 [Exception] : CommunicationException

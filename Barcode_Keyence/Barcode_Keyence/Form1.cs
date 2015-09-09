@@ -202,6 +202,7 @@ namespace Barcode_Keyence
             textBox_ipaddress3.LostFocus += OnLostFocusIPAddress3;
             textBox_ipaddress4.GotFocus += OnFocusIPAddress4;
             textBox_ipaddress4.LostFocus += OnLostFocusIPAddress4;
+            button_close.Enabled = false;
         }
         private void Connect()
         {
@@ -238,18 +239,21 @@ namespace Barcode_Keyence
                 this.barcodeReaderControl1.StartLiveView();
                 textBox_status.AppendText("Live View Started...\n");
                 button_connect.Enabled = false;
+                button_close.Enabled = true;
             }
             catch (SocketException ex)
             {
                 WriteLog(ex.ToString() + Environment.NewLine + "   at " + DateTime.Now.ToString("dd-MM-yyyy HH:mm:ss:fff"));
                 textBox_status.AppendText("Socket Exception Occured. Please refer log file." + "\n");
                 button_connect.Enabled = true;
+                button_close.Enabled = false;
             }
             catch (Exception ex)
             {
                 WriteLog(ex.ToString() + Environment.NewLine + "   at " + DateTime.Now.ToString("dd-MM-yyyy HH:mm:ss:fff"));
                 textBox_status.AppendText("Exception Occured. Please refer log file." + "\n");
                 button_connect.Enabled = true;
+                button_close.Enabled = false;
             }
             finally
             {
@@ -323,11 +327,15 @@ namespace Barcode_Keyence
                 CloseLog();
                 CloseData();
                 textBox_status.AppendText("Socked Closed...\n");
+                button_close.Enabled = false;
+                button_connect.Enabled = true;
             }
             catch (Exception ex)
             {
                 WriteLog(ex.ToString() + Environment.NewLine + "   at " + DateTime.Now.ToString("dd-MM-yyyy HH:mm:ss:fff"));
                 textBox_status.AppendText("Exception Occured. Please refer log file." + "\n");
+                button_close.Enabled = true;
+                button_connect.Enabled = false;
             }
         }
     }
