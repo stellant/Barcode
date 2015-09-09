@@ -1,0 +1,17 @@
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\SrLiveViewSample.exe
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\SrLiveViewSample.pdb
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\BarcodeReaderControl.dll
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\Communication.dll
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\Readers.dll
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\VncClientControl.dll
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\SrUsbAdapterApi.dll
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\bin\x86\Debug\CommonUtility.dll
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\SrLiveViewSample.Form1.resources
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\SrLiveViewSample.Properties.Resources.resources
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\SrLiveViewSample.exe
+H:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\SrLiveViewSample.pdb
+D:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\SrLiveViewSample.exe
+D:\Barcode Reader Source Codes\Windows_sample_program_410_kotei_HP\Windows_sample_program_410_kotei_HP\EN\VS2010 Form\VC#\LiveView\SrLiveViewSample\obj\x86\Debug\SrLiveViewSample.pdb
